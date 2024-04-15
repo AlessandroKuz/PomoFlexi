@@ -1,5 +1,5 @@
 # PomoFlexi
- A more flexible way to use the pomodoro method 
+ A more flexible way to use the pomodoro method.
 
 ## Draft Description and possible roadmap
 
@@ -19,16 +19,16 @@ There are also plans to use an "unlimited" timer, which will track the time spen
 
 Future features:
 Basic features:
-- [ ] Add a base timer
-- [ ] Add a task list
-- [ ] Add a calendar
-- [ ] Add a statistics page
-- [ ] Add a settings page
-- [ ] Add a dark mode
-- [ ] Add a light mode
-- [ ] Add a theme selector
+- [ ] Add a base timer.
+- [ ] Add a task list.
+- [ ] Add a calendar.
+- [ ] Add a statistics page.
+- [ ] Add a settings page.
+- [ ] Add a dark mode.
+- [ ] Add a light mode.
+- [ ] Add a theme selector.
 
 Flexibility features:
-- [ ] Add a custom timer
-- [ ] Track total time spent on tasks --> statistics page
-- [ ] Track time after the indicative time runs out --> when the continue button is pressed you'll be shown the actual time spent on the task
+- [ ] Add a custom timer.
+- [ ] Track total time spent on tasks --> statistics page.
+- [ ] Track time after the indicative time runs out --> when the continue button is pressed you'll be shown the actual time spent on the task.
